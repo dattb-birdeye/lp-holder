@@ -1,0 +1,53 @@
+{
+ "dlmm": {
+  "owner": "AftcWvXRBKcMuZ5hGUNJ1co8sSiUXmZpPQWMy1M9b9tm",
+  "lower": -2316,
+  "upper": -2247,
+  "amount_x_raw": "345714465",
+  "amount_y_raw": "175614914"
+ },
+ "dammv2": {
+  "liquidity": "124116807463172921765872847550779",
+  "nft_mint": "8aaJK45NDVtyrE9sWCJENLHRSkQcSxPiHzrgLXbmBLgq",
+  "amount_a_raw": "10668209677479",
+  "amount_b_raw": "395118642641",
+  "sqrt_min": "4880549731789001291",
+  "sqrt_max": "12236185739241331242",
+  "sqrt_price": "5963818868989678716"
+ },
+ "raydium_clmm": {
+  "nft_mint": "4Et4fBYpZXZ4qdYskpPXhytSag9fF4qQYpvfBPTY4VZv",
+  "pool": "3ucNos4NbumPLZNWztqGHNFFgkHeRMBQAVemeeomsUxv",
+  "tick_lower": -23313,
+  "tick_upper": -22312,
+  "liquidity": "7554843176313",
+  "amount_a_raw": "315646525444",
+  "amount_b_raw": "87421769188"
+ },
+ "orca": {
+  "position_mint": "EyjFMfM6i2rFKGF28qFkLHJ1c7X9hTCdqSzJD2XtqUfK",
+  "pool": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",
+  "tick_lower": -19520,
+  "tick_upper": -19040,
+  "liquidity": "1611523031913",
+  "amount_a_raw": "101408746772",
+  "amount_b_raw": "0"
+ },
+ "ammv4": {
+  "need_take_pnl_coin": 0,
+  "need_take_pnl_pc": 0
+ },
+ "cpmm": {
+  "creator_fee0": 0,
+  "creator_fee1": 0,
+  "enable_creator_fee": 0
+ },
+ "dlmm_extended": {
+  "lower": -2291,
+  "upper": -2199,
+  "ext_count": 23,
+  "ext_first": "97952255390053463601232704504",
+  "ext_last": "97982387486534884685796804504",
+  "ext_sum": "2253078016157345165735241594812"
+ }
+}
